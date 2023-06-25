@@ -437,7 +437,7 @@ img {
 
 .tours__tour {
   display: flex;
-  gap: 108px;
+  gap: 106px;
   align-items: center;
   justify-content: space-between;
 }
