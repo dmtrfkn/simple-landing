@@ -1,1 +1,1 @@
-# simple-landing
+# simple-landing for practice
